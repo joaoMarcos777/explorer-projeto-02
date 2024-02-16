@@ -4,7 +4,7 @@
 
 <h1 align="center">Treine.me</h1>
 
-> A workout website landingpage
+> A workout website landing page
 
 ## Technologies
 
